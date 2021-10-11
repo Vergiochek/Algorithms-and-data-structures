@@ -1,5 +1,5 @@
-# Algorithms-and-data-structures
-Algorithms and data structures, 2021.
+# Algorithms-and-data-structures-Yandex-Contest
+Algorithms and data structures, YandexContest 2021.
 
 # №1 Добавление
 Дан неориентированный граф. Определить минимальное количество ребер, после добавления которых граф станет связным. Вывести -1 если ответа не существует.
